@@ -1,6 +1,6 @@
 {
   "name": "ember-redux-freeze",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Redux middleware that prevents state from being mutated anywhere in the app",
   "keywords": [
     "ember-addon"
