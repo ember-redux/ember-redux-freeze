@@ -14,8 +14,8 @@ ember install ember-redux-freeze
 import { freeze } from 'ember-redux-freeze';
 ```
 
-[ci-img]: https://img.shields.io/travis/toranb/ember-redux-freeze.svg "Travis CI Build Status"
-[ci-url]: https://travis-ci.org/toranb/ember-redux-freeze
+[ci-img]: https://img.shields.io/travis/ember-redux/ember-redux-freeze.svg "Travis CI Build Status"
+[ci-url]: https://travis-ci.org/ember-redux/ember-redux-freeze
 [ember-img]: https://img.shields.io/badge/ember-1.13.13+-green.svg "Ember 1.13.13+"
 [npm-img]: https://img.shields.io/npm/v/ember-redux-freeze.svg "NPM Version"
 [npm-url]: https://www.npmjs.com/package/ember-redux-freeze
